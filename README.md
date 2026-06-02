@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavanamv/"><img src="https://img.shields.io/badge/LinkedIn-bhavanamv-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://bhavv.github.io/"><img src="https://img.shields.io/badge/Portfolio-bhavv.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:bhavanamv@sjsu.edu"><img src="https://img.shields.io/badge/Email-bhavanamv%40sjsu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:bhavanamv@sjsu.edu"><img src="https://img.shields.io/badge/Email-bhavanameravanige.veerappa%40sjsu.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
