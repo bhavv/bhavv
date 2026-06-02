@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a graduate student pursuing an **M.S. in Applied Data Intelligence** at San Jose State University (Class of 2026), with professional experience at **AMD** and **Deloitte Consulting**. I build end-to-end data systems — from pipeline architecture and real-time dashboards to ML-powered applications and LLM safety middleware.
+I recently graduated with an **M.S. in Applied Data Intelligence** from San Jose State University (May 2026), with professional experience at **AMD** and **Deloitte Consulting**. I build end-to-end data systems — from pipeline architecture and real-time dashboards to ML-powered applications and LLM safety middleware.
 
 - 🔭 Currently working on **GateKeeper** — a full-stack LLM safety & guardrail system
 - 🌱 Deepening expertise in **LLM safety, RAG pipelines, and multi-agent reasoning**
