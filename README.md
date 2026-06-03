@@ -95,6 +95,3 @@ Multimodal chatbot leveraging the OpenAI API.
 
 ---
 
-<p align="center">
-  <i>Open to work · San Jose, CA · Hybrid / Remote / On-site</i>
-</p>
